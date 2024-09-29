@@ -38,7 +38,7 @@ This project was inspired by a YouTube tutorial from the channel "Programming Wi
 
 Special thanks to the Raylib community and contributors for providing such a powerful, easy-to-use game development library.
 
-Raylib: https://www.raylib.com/
-YouTube Tutorial: [Programming With Nick](https://youtu.be/TGo3Oxdpr5o?si=7kRsCNYfPY_GtgYn)
+- Raylib: https://www.raylib.com/
+- YouTube Tutorial: [Programming With Nick](https://youtu.be/TGo3Oxdpr5o?si=7kRsCNYfPY_GtgYn)
 ## License
 This project is released under the MIT License and is intended for educational purposes. Feel free to use and modify the code for personal projects. Please credit the original tutorial author if you share it publicly.
