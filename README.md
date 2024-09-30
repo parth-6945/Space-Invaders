@@ -17,8 +17,8 @@ This is a simple implementation of the classic **Space Invaders** game built usi
 This project is provided as a standalone executable and does not require an installer.
 
 ### Steps:
-1. Download the `.exe` file from the [releases](#) section.
-2. Run the `.exe` on your Windows machine.
+1. Download the SpaceInvadersDistributable folder.
+2. Run the `main.exe` in the folder on your Windows machine.
 
 **Note**: No additional dependencies are required. The game is designed to run on any standard Windows system.
 
